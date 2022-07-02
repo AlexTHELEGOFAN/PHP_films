@@ -2,8 +2,7 @@
 
 # Gestion de bibliothèque Films
 
-Projet noté réalisé dans le cadre de mon DUT Informatique dans le module PHP Avancé.  
-Projet réalisé fin 2021.
+Projet symfony consistant à réaliser une application de gestion d'une bibliothèque de films.
 
 ## Pour éxecuter le projet :
 
