@@ -2,7 +2,8 @@
 
 # Gestion de bibliothèque Films
 
-Exercice noté du module PHP Avancé.
+Projet noté réalisé dans le cadre de mon DUT Informatique dans le module PHP Avancé.
+Projet réalisé fin 2021.
 
 ## Pour éxecuter le projet :
 
